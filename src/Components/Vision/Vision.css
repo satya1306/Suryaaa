@@ -1,0 +1,34 @@
+.vision{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.vision-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.vision-right{
+    flex-basis: 56%;
+}
+.vision-img{
+    width: 100%;
+    border-radius: 10px;
+}
+.vision h3{
+    font-weight: 600;
+    font-weight: 16px;
+    color: #212EA0;
+}
+.vision h2{
+   font-size: 35px;
+   color: #000F38;
+   margin: 10px 0;
+   max-width: 400px;
+}
+
+.vision p{
+    color: #676767;
+    margin-bottom: 15px;
+}
